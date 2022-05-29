@@ -1,3 +1,7 @@
 #!/bin/bash
 
-## Programas Desenvolvimento Java ##
+## Programas##
+
+
+## Atualizando o repositório ##
+sudo apt update -y
